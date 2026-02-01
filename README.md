@@ -61,6 +61,8 @@ Harga: Rp150k–500k per paket
 
 ## 3️⃣ Jual produk digital
 
+[Konsepnya](produk-digital.md)
+
 Sekali buat → dijual berkali-kali
 
 Contoh:
