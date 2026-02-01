@@ -188,11 +188,11 @@ Target:
 
 ---
 
-Kalau kamu mau, aku bisa buatkan:
-✅ strategi spesifik sesuai skill kamu
-✅ skrip chat closing klien
-✅ daftar jasa paling cepat laku
-✅ rencana 14 hari dapat 300k/hari
+Kalau kamu mau, aku bisa buatkan: 
+- ✅ strategi spesifik sesuai skill kamu 
+- ✅ skrip chat closing klien  
+- ✅ daftar jasa paling cepat laku 
+- ✅ rencana 14 hari dapat 300k/hari
 
 Tinggal jawab:
 **skill kamu apa sekarang?**

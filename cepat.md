@@ -1,11 +1,11 @@
 Fokus ya — kamu minta **yang tanpa modal**, **cepat dibayar**, dan **realistis bisa tembus Rp300k/hari**, walau harus kerja keras dan bikin banyak konten. Jadi kita buang dulu yang lambat seperti jual template pasif, ebook, dll.
 
 Aku ranking berdasarkan:
-✅ tanpa modal uang
-✅ bisa mulai hari ini
-✅ orang memang butuh
-✅ pembayaran bisa cepat
-✅ bukan tunggu monetisasi platform
+- ✅ tanpa modal uang
+- ✅ bisa mulai hari ini
+- ✅ orang memang butuh
+- ✅ pembayaran bisa cepat
+- ✅ bukan tunggu monetisasi platform
 
 ---
 
@@ -189,11 +189,12 @@ Hari ini:
 
 Kalau kamu mau, aku bisa buatkan:
 
-✅ skrip DM closing
-✅ daftar target yang mudah closing
-✅ paket jasa siap jual
-✅ template penawaran
-✅ strategi 3 hari tembus 300k
+- ✅ skrip DM closing
+- ✅ daftar target yang mudah closing
+- ✅ paket jasa siap jual
+- ✅ template penawaran
+- ✅ strategi 3 hari tembus 300k
 
 Jawab dulu:
+
 👉 kamu lebih kuat di nulis, desain, atau teknis?
