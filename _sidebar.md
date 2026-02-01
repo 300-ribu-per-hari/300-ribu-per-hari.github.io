@@ -1,2 +1,2 @@
 - [Beranda](/)
-- [Produk Digital](produk-digital.md)
+- [Cara Cepat](cepat)
