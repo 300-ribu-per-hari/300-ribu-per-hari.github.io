@@ -1,4 +1,3 @@
 - [Beranda](/)
-- Tanpa Modal
-  - [Cara Cepat](cepat)
-    - [Landing Page](landing-page)
+- [Cara Cepat](cepat)
+  - [Landing Page](landing-page)
