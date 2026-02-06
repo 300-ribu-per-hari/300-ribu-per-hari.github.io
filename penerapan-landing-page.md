@@ -99,4 +99,34 @@
 - Buka Terminal, lalu ketikkan `qwen`
 - Ketik: @perintah.txt
 - Tinggal tunggu aja website dibuatkan
-- Kalau sudah, upload ke hosting
+- Kalau sudah, upload ke hosting. Contohnya: https://bangsri.zonabelajar.my.id/
+
+## Menawarkan
+
+- Untuk menawarkan, kita bisa DM dengan template seperti ini:
+
+  ```
+  Assalamu’alaikum, saya lihat ada acara [nama event].
+  Biasanya peserta banyak tanya detail di chat ya, jadi sering repot jawab satu-satu.
+
+  Saya biasa bantu panitia buat landing page 1 halaman berisi info acara + pendaftaran supaya rapi dan mudah dibagikan.
+
+  Ini saya sudah buatkan contoh websitenya khusus untuk konsep acara seperti ini:
+  [link contoh]
+
+  Kalau cocok, saya bisa buatkan versi resminya. Biayanya Rp250 ribu saja. 🙏
+  ```
+
+  Contohnya:
+
+  ```
+  Assalamu’alaikum, saya lihat ada acara PPDB SD Negeri 1 Bangsri.
+  Biasanya calon wali siswa banyak tanya detail di chat ya, jadi sering repot jawab satu-satu.
+
+  Saya biasa bantu panitia buat landing page 1 halaman berisi info acara + pendaftaran supaya rapi dan mudah dibagikan.
+
+  Ini saya sudah buatkan contoh websitenya khusus untuk konsep acara seperti ini:
+  https://bangsri.zonabelajar.my.id/
+
+  Kalau cocok, saya bisa buatkan versi resminya. Biayanya Rp250 ribu saja. 🙏
+  ```
