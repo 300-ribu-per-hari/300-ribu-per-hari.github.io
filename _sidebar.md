@@ -1,4 +1,2 @@
 - [Beranda](/)
-- [Cara Cepat](cepat)
-  - [Landing Page](landing-page)
-    - [Penerapan](penerapan-landing-page)
+- [Landing Page](penerapan-landing-page)

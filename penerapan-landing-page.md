@@ -1,4 +1,4 @@
-# Penerapan
+# Landing Page
 
 ## Mencari Target
 
@@ -130,3 +130,8 @@
 
   Kalau cocok, saya bisa buatkan versi resminya. Biayanya Rp250 ribu saja. 🙏
   ```
+
+## Supaya Mencapai 300 Ribu Rupiah per Hari
+
+- Untuk mencapai target 300 ribu rupiah per hari, berarti harus memperbanyak peluangnya
+- Kalau bisa, setiap hari, DM 50 akun dengan cara seperti di atas
