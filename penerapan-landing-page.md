@@ -10,7 +10,6 @@
   ![](detail-advanced-search.PNG)
 
   Yang perlu diperhatikan:
-
   - all these words
   - last update (pilih : past 24 hours)
   - site or domain (pilih : instagram.com)
@@ -31,8 +30,6 @@
 - Pilih salah satu event, klik. Contohnya aja aku menemukan ini:
 
   ![alt text](image.png)
-
-- Nah di situ kan saya menemukan info media sosial yang **tidak memiliki website**. Maka, saya buatkan contoh websitenya terlebih dahulu
 
 ## Membuat Website Contoh
 
